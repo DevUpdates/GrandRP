@@ -1,5 +1,4 @@
 1.0.4
-        Switched from Spigot to Paper
         Fixed Ranks Table
         F Button Interactions
         Bank System added
@@ -20,6 +19,7 @@
 1.0.2
         Added /Stats Command
         Added EXP & Level to Playerhead in /stats
+        Switched from Spigot to Paper
 
 1.0.1
         PaydayTriggerEvent Added
