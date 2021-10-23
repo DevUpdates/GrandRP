@@ -1,9 +1,23 @@
-1.0.3
+1.0.4
         Switched from Spigot to Paper
-
-1.0.2
-        Added ID PlayerName UUID Level Exp NextPay to the users Table
         Fixed Ranks Table
+        F Button Interactions
+        Bank System added
+        Vehicles Added
+        Npc System Added
+        Scoreboard Added
+        HotBar and /inv Added
+        Ranks Manager overworked
+
+1.0.3
+        Sync stats on reload
+        Action Bar Messages added
+        Chat System added
+        Added ID PlayerName UUID Level Exp NextPay to the users Table
+        Licenses Added
+        Languages Added
+     
+1.0.2
         Added /Stats Command
         Added EXP & Level to Playerhead in /stats
 
