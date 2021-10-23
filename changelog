@@ -1,5 +1,18 @@
+1.0.3
+        Switched from Spigot to Paper
+
+1.0.2
+        Added ID PlayerName UUID Level Exp NextPay to the users Table
+        Fixed Ranks Table
+        Added /Stats Command
+        Added EXP & Level to Playerhead in /stats
+
 1.0.1
-        Soon
+        PaydayTriggerEvent Added
+        Payday Streaks
+        Permissions added
+        MySQL Connection
+        MySQL Table Creation
         
 1.0.0
 Init post
