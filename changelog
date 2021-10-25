@@ -1,17 +1,27 @@
+1.0.5
+        Encrypted Resourcepacks & Anti Mapstealer Implemented
+        Movable Armorstands | Vehicles (Models are under construction - Creator: omargabagu)
+        Implemented GPS Plugin
+        Implemented Skinchanger
+        Two Factor Authentication Added
+        NPCs for Tutorial Added
+        Story Added (Written by: quantaxy)
+        Automatic Map Import (Builder Team Leader: Vlad0sMiner - Editor: DevUpdates)
+        Default Jobs Added (Not Implemented)
 1.0.4
         Fixed Ranks Table
         F Button Interactions
-        Bank System added
+        Bank System Added
         Vehicles Added
         Npc System Added
         Scoreboard Added
-        HotBar and /inv Added
+        Hotbar and /inv Added
         Ranks Manager overworked
 
 1.0.3
         Sync stats on reload
-        Action Bar Messages added
-        Chat System added
+        Action Bar Messages Added
+        Chat System Added
         Added ID PlayerName UUID Level Exp NextPay to the users Table
         Licenses Added
         Languages Added
@@ -24,7 +34,7 @@
 1.0.1
         PaydayTriggerEvent Added
         Payday Streaks
-        Permissions added
+        Permissions Added
         MySQL Connection
         MySQL Table Creation
         
